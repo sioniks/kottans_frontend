@@ -30,3 +30,5 @@ I realized that I do not know Geta. Many teams were new to me. The section for w
 ![Git for Team Collaboration](https://github.com/sioniks/kottans_frontend/blob/master/task_2/git-collaboration.png "Tasks 3")
 
 ---
+
+## Intro to HTML and CSS - in progress
