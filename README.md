@@ -36,7 +36,7 @@ I realized that I do not know Geta. Many teams were new to me. The section for w
 it was easy for me
 
 1
-![Intro to HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/intro_html-css.png "Tasks 1")
+![Intro to HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/intro_html-css.png "Tasks 1 ")
 2
 ![Htmlacademy HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/academy_html-css.png "Tasks 2")
 
