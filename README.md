@@ -31,4 +31,13 @@ I realized that I do not know Geta. Many teams were new to me. The section for w
 
 ---
 
-## Intro to HTML and CSS - in progress
+## Intro to HTML and CSS - done
+
+it was easy for me
+
+1
+![Intro to HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/intro_html-css.png "Tasks 1")
+2
+![Htmlacademy HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/academy_html-css.png "Tasks 2")
+
+---
