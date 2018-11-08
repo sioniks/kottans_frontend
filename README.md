@@ -41,3 +41,14 @@ it was easy for me
 ![Htmlacademy HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_3/academy_html-css.png "Tasks 2")
 
 ---
+
+## Responsive Web Design - done
+
+I am familiar with this topic and it did not cause me big problems
+
+1 - Responsive Web Design Fundamentals
+![Responsive Web Design Fundamentals](https://github.com/sioniks/kottans_frontend/blob/master/task_4/respons1.png "Tasks 1")
+2 - Flexbox Froggy
+![Htmlacademy HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_4/respons2.png "Tasks 2")
+
+---
