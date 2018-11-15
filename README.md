@@ -49,6 +49,18 @@ I am familiar with this topic and it did not cause me big problems
 1 - Responsive Web Design Fundamentals
 ![Responsive Web Design Fundamentals](https://github.com/sioniks/kottans_frontend/blob/master/task_4/respons1.png "Tasks 1")
 2 - Flexbox Froggy
-![Htmlacademy HTML and CSS](https://github.com/sioniks/kottans_frontend/blob/master/task_4/respons2.png "Tasks 2")
+![Flexbox Froggy](https://github.com/sioniks/kottans_frontend/blob/master/task_4/respons2.png "Tasks 2")
+
+---
+
+## JavaScript Basics - done
+
+it was really hard for me. The first part of this task is all ok. But the second gave me several nights without sleep. Do I not understand something, but the task was not from the basic level. Every task had to be read for several hours.
+P.S. Thank you Sorax...
+
+1 - Intro to JS
+![Intro to JS](https://github.com/sioniks/kottans_frontend/blob/master/task_5/introJS.png "Tasks 1")
+2 - freecodecamp Algorithm Scripting Challenges
+![freecodecamp Algorithm Scripting Challenges](https://github.com/sioniks/kottans_frontend/blob/master/task_5/fcc_js.png "Tasks 2")
 
 ---
