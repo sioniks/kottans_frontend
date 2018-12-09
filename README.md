@@ -64,3 +64,18 @@ P.S. Thank you Sorax...
 ![freecodecamp Algorithm Scripting Challenges](https://github.com/sioniks/kottans_frontend/blob/master/task_5/fcc_js.png "Tasks 2")
 
 ---
+
+## Document Object Model - done
+
+JS algorithms were difficult for me. A lot of information has to be read and mastered.
+
+Working with the house is a little easier - after studying the material from the lesson.
+
+I hope in the future will be easier.
+
+1 - JavaScript and the DOM
+![JavaScript and the DOM](https://github.com/sioniks/kottans_frontend/blob/master/task_6/dom_uda.png "Tasks 1")
+2 - freecodecamp Algorithm Scripting Challenges
+![freecodecamp Algorithm Scripting Challenges](https://github.com/sioniks/kottans_frontend/blob/master/task_6/fcc_js2.png "Tasks 2")
+
+---
