@@ -78,6 +78,8 @@ I hope in the future will be easier.
 2 - freecodecamp Algorithm Scripting Challenges
 ![freecodecamp Algorithm Scripting Challenges](https://github.com/sioniks/kottans_frontend/blob/master/task_6/fcc_js2.png "Tasks 2")
 
+3 - [Practical task](https://sioniks.github.io/kottans_frontend/task_6/js-dom/)
 
-1 - [Practical task](https://sioniks.github.io/kottans_frontend/task_6/js-dom/)
 ---
+
+## A Tiny JS World - done
