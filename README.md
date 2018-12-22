@@ -83,3 +83,5 @@ I hope in the future will be easier.
 ---
 
 ## A Tiny JS World - done
+
+[Practical task](https://sioniks.github.io/kottans_frontend/task_7/a-tiny-js-world/)
