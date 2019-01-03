@@ -85,3 +85,15 @@ I hope in the future will be easier.
 ## A Tiny JS World - done
 
 [Practical task](https://sioniks.github.io/kottans_frontend/task_7/a-tiny-js-world/)
+
+---
+
+## Object Oriented JS - done
+
+1 - Object Oriented JS
+![Object Oriented JS](https://github.com/sioniks/kottans_frontend/blob/master/task_8_js_oop/oop.png "Tasks 1")
+
+2 - codewars
+![codewars](https://www.codewars.com/users/sioniks "Tasks 2")
+
+3 - Frogger (![demo](https://sioniks.github.io/kottans_frontend/task_8_js_oop/frogger "Tasks 3") | ![code](https://sioniks.github.io/kottans_frontend/task_8_js_oop/frogger/js/app.js "Tasks 3"))
