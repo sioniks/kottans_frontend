@@ -97,3 +97,9 @@ I hope in the future will be easier.
 [codewars profile](https://www.codewars.com/users/sioniks "Tasks 2")
 
 3 - Frogger ([demo](https://sioniks.github.io/kottans_frontend/task_8_js_oop/frogger "Tasks 3") | [code](https://sioniks.github.io/kottans_frontend/task_8_js_oop/frogger/js/app.js "Tasks 3"))
+
+---
+
+## OOP exercise
+
+[Practical task](https://sioniks.github.io/kottans_frontend/task_7/a-tiny-js-world/index.js)
