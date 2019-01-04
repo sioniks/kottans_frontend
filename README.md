@@ -84,7 +84,7 @@ I hope in the future will be easier.
 
 ## A Tiny JS World - done
 
-[Practical task](https://sioniks.github.io/kottans_frontend/task_7/a-tiny-js-world/)
+[Practical task](https://sioniks.github.io/kottans_frontend/tree/master/task_7/)
 
 ---
 
@@ -102,4 +102,4 @@ I hope in the future will be easier.
 
 ## OOP exercise
 
-[tiny JS world oop](https://sioniks.github.io/kottans_frontend/task_9/)
+[tiny JS world oop](https://github.com/sioniks/kottans_frontend/tree/master/task_9)
