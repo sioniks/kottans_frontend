@@ -102,4 +102,4 @@ I hope in the future will be easier.
 
 ## OOP exercise
 
-[Practical task](https://sioniks.github.io/kottans_frontend/task_7/a-tiny-js-world/index.js)
+[tiny JS world oop](https://sioniks.github.io/kottans_frontend/task_9/)
